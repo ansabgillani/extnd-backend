@@ -1,0 +1,1 @@
+export const STRONG_PASSWORD_ERROR = "Minimum 9 characters, 1 Upper case letter, 1 lower case, 1 special character & 1 number"
